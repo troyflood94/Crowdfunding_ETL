@@ -17,3 +17,6 @@ ETL (Extract, Transform & Load) is a foundational skill. In the real world, data
 
 # ERD
 ![image](https://github.com/user-attachments/assets/85c9f0d4-7989-47a5-a53d-31960c023556)
+
+# Conclusion
+In conclusion, this ETL mini project will equip you with essential skills in data extraction, transformation, and loading using Python and Pandas. By working through the process of cleaning and organizing data from multiple sources, creating CSV files, developing an ERD and table schema, and uploading data to a Postgres database, you will gain a comprehensive understanding of ETL processes. This knowledge is critical for ensuring accurate and insightful data analysis, making you proficient in managing and manipulating data effectively.
