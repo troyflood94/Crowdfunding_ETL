@@ -15,8 +15,5 @@ For the ETL mini project, we will work to practice building an ETL pipeline usin
 
 ETL (Extract, Transform & Load) is a foundational skill. In the real world, data is everywhere and often scattered across multiple sources, and it can be messy. Understanding how to extract, load, and transform data is a critical concept as it enables you to have clean, up-to-date, and accurate data. It empowers you to become an expert in your data by allowing you to manipulate data types, fix formatting issues, and create additional columns to enrich and gain meaningful insights from your data.
 
-
-
-
-
-ERD Link-[alt text](project_table.png)
+# ERD
+![image](https://github.com/user-attachments/assets/85c9f0d4-7989-47a5-a53d-31960c023556)
